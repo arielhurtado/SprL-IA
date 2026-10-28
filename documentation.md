@@ -787,4 +787,8 @@ jobs:
         run: |
           sudo apt-get install -y cppcheck
           cppcheck --enable=all --error-exitcode=1 obc_sw/src
+
+Enlace a la conversación: https://chat.deepseek.com/share/0heh1tcxijgy2nnvo6
 ```
+
+
